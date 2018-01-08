@@ -64,6 +64,7 @@ public class Accommodation_amend {
 			if (browsername.equalsIgnoreCase("CH")) {
 
 				driver = new DriverAndObjectDetails(DriverName.CH).CreateDriver();
+				//jjk
 
 			} else {
 
